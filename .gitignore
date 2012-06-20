@@ -1,0 +1,21 @@
+*.mode1v3
+*.pbxuser
+xcuserdata
+build/
+obj/
+*.o
+openFrameworks.a
+openFrameworksDebug.a
+openFrameworksUniversal.a
+*.app/
+*.svn
+*.xml
+*.bak
+.DS_Store
+
+#linux temporary files
+*~
+
+#Project Specific
+addons/
+libs/
